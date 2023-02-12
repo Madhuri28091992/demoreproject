@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-12T00:01:11Z" name="Suite" finished-at="2023-02-12T00:01:36Z" duration-ms="25417">
+    <groups>
+    </groups>
+    <test started-at="2023-02-12T00:01:11Z" name="Test" finished-at="2023-02-12T00:01:36Z" duration-ms="25417">
+      <class name="Automationtalks.demoproject.Testclass">
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:11Z" name="launchdriver" finished-at="2023-02-12T00:01:13Z" duration-ms="2338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method signature="Test1()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:13Z" name="Test1" finished-at="2023-02-12T00:01:19Z" duration-ms="5836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:19Z" name="quit" finished-at="2023-02-12T00:01:20Z" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:20Z" name="launchdriver" finished-at="2023-02-12T00:01:21Z" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method signature="Test2()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:21Z" name="Test2" finished-at="2023-02-12T00:01:28Z" duration-ms="6682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:28Z" name="quit" finished-at="2023-02-12T00:01:29Z" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:29Z" name="launchdriver" finished-at="2023-02-12T00:01:31Z" duration-ms="1777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method signature="Test3()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:31Z" name="Test3" finished-at="2023-02-12T00:01:36Z" duration-ms="5348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Automationtalks.demoproject.Testclass@306cf3ea]" started-at="2023-02-12T00:01:36Z" name="quit" finished-at="2023-02-12T00:01:36Z" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Automationtalks.demoproject.Testclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
